@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "applicant_name": "ksuma",
+    "applicant_email": "ksuma@gmail.com",
+    "applicant_phone": "9578657890",
+    "loan_amount": 1000,
+    "loan_type": "personal",
+    "purpose": "Home",
+    "annual_income": 200000,
+    "user_id": 1,
+    "status": "pending",
+    "stage": "application_submitted",
+    "created_at": "2025-08-12T06:28:31.855Z",
+    "updated_at": "2025-08-12T06:28:31.855Z"
+  },
+  {
+    "id": 2,
+    "applicant_name": "rishi ",
+    "applicant_email": "rishi@gmail.com",
+    "applicant_phone": "9877567948",
+    "loan_amount": 1000,
+    "loan_type": "business",
+    "purpose": "Construct",
+    "annual_income": 200000,
+    "user_id": 1,
+    "status": "pending",
+    "stage": "application_submitted",
+    "created_at": "2025-08-12T06:29:19.024Z",
+    "updated_at": "2025-08-12T06:29:19.024Z"
+  }
+]
